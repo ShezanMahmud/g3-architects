@@ -538,4 +538,18 @@ nav {
     /* padding: 8px; */
     rotate: 360deg;
   }
+  .sponspors {
+    width: 100%;
+    margin: 0;
+    text-align: center;
+  }
+  .sponspors > div > h1 {
+    width: 100%;
+    color: #131313;
+    margin-bottom: 24px;
+  }
+  .sponspors > div > p {
+    width: 100%;
+    color: #727272;
+  }
 }
