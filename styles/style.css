@@ -552,4 +552,8 @@ nav {
     width: 100%;
     color: #727272;
   }
+  .footer {
+    width: 100%;
+    margin: 0;
+  }
 }
